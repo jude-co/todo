@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  background-color: yellow;
+  border-radius: 10px;
+  height: 400px;
+  width: 500px;
+  margin-left: 350px;
+  
+}
+
+.search {
+  margin: 20px;
+  height: 30px;
+  width: 220px;
+  background-color: whitesmoke;
+ 
+}
+
+ul {
+  list-style: none;
+}
+
+.buy {
+  border: 2px  black;
+  display: inline-block;
+  width: 220px;
+  height: 30px;
+  margin: 3px;
+  background-color: grey;
+  color: black;
+  margin-right: 10px;
+  justify-content: center;
+  display: flex;
+  
+}
+
+.task {
+  border: 2px  black;
+  display: inline-block;
+  width: 220px;
+  height: 30px;
+  margin: 3px;
+  background-color: grey;
+  color: black;
+  margin-right: 10px;
+  justify-content: center;
+  display: flex;
+}
+
+.dance {
+  border: 2px  black;
+  display: inline-block;
+  width: 220px;
+  height: 30px;
+  margin: 3px;
+  background-color: grey;
+  color: black;
+  margin-right: 10px;
+  justify-content: center;
+  display: flex;
+}
+
+.new {
+  border: 2px  black;
+  display: inline-block;
+  width: 220px;
+  height: 30px;
+  margin: 3px;
+  background-color: grey;
+  color: black;
+  margin-right: 10px;
+  justify-content: center;
+  display: flex;
+}
